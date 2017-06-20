@@ -59,7 +59,7 @@ namespace ChallengePhunWithStrings
             puzzle = puzzle.Remove(puzzle.IndexOf(remove), remove.Length);
             puzzle = puzzle.Replace('Z', 't');
             puzzle = puzzle.ToLower();
-            puzzle = puzzle.Remove(0, 1).Insert(0, "N");
+            puzzle = puzzle[0].ToString().ToUpper() + puzzle.Substring(1);
             resultLabel4.Text = puzzle;
         }
     }
