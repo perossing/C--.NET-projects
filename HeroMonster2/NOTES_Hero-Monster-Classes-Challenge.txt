@@ -1,0 +1,24 @@
+*** As with many of the lessons in this series, the provided solution was lacking in several aspects: ***
+
+It repeatedly displayed Name, Health, Max Damage, and Attack Bonus, three of which never change.
+
+The one thing that changed in the repeated displays was health, which is a result of the attack & damage.  The attack and the random damage number that make the game somewhat interesting were buried in the code and never displayed.
+
+There was also never any explanation of why there would be an Attack Bonus, and this never showed up in the display when if it was used.
+
+The name "damage" is also a really poor variable name because it does not distinguish between damage that is given or damage that is taken, which can lead to a lot of confusion.
+
+
+*** I made the following changes: ***
+1) Display name, health (relabled 'Starting Health'), Max Damage (renamed MaxAttackForce), and Bonus Attack, are displayed together only at the start of the game.
+2) Display whether the first attack is a bonus.
+3) Display who is attacking in each round followed by the results.
+4) Track and display the attackForce (= damageTaken) with each attack.
+These changes make the results of the game much more interesting and at least provide some reasoning for why one would write such a program, even as an exercise.
+
+In addition, I extracted and abstracted several methods for more readable and less rambling code.
+
+
+
+ 
+
