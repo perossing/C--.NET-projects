@@ -133,7 +133,6 @@ namespace HeroMonster2
 
             public int Roll()
             {
-                rndm.Next(this.Sides);
                 return rndm.Next(this.Sides);
             }
         }
