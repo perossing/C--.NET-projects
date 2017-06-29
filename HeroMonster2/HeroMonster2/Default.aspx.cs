@@ -11,7 +11,6 @@ namespace HeroMonster2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
             Character hero = new Character()
             {
                 Name = "Acis",

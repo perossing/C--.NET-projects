@@ -24,7 +24,6 @@ namespace DartsChallenge
             LabelFullGame.Text = RoundResult;
             string FinalResult = game.DisplayFinal();
             LabelFinal.Text += FinalResult;
-        }     
-
+        }    
     }
 }
