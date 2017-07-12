@@ -1,0 +1,5 @@
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.DTO\bin\Release\LocalDbExample.DTO.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.DTO\bin\Release\LocalDbExample.DTO.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.pdb

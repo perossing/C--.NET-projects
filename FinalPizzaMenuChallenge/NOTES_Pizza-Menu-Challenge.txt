@@ -1,0 +1,3 @@
+The completed code in these files does not show original work.  After working on several components of this project, I ultimately replaced the whole thing with files built while going through the project-solution videos.
+
+Going through the process of working on individual parts was good practice in setting up classes and general application structure, but ultimately needed to change the approach and follow the solution in order to get everything working together.

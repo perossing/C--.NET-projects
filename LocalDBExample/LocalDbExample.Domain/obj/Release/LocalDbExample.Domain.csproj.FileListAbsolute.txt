@@ -1,0 +1,12 @@
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.Domain.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.Domain.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.DTO.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.Persistence.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\EntityFramework.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.DTO.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.Persistence.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\LocalDbExample.Persistence.dll.config
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\bin\Release\EntityFramework.xml
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\obj\Release\LocalDbExample.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\obj\Release\LocalDbExample.Domain.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\LocalDBExample\LocalDbExample.Domain\obj\Release\LocalDbExample.Domain.pdb

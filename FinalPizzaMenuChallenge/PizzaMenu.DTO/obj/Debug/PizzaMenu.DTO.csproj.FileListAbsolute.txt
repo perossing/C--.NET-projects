@@ -1,0 +1,5 @@
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PizzaMenu.DTO\bin\Debug\PizzaMenu.DTO.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PizzaMenu.DTO\bin\Debug\PizzaMenu.DTO.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.pdb

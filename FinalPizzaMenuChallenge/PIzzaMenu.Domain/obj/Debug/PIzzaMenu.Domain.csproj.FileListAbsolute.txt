@@ -1,0 +1,12 @@
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PIzzaMenu.Domain.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PIzzaMenu.Domain.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\obj\Debug\PIzzaMenu.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\obj\Debug\PIzzaMenu.Domain.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\obj\Debug\PIzzaMenu.Domain.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PizzaMenu.Data.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PizzaMenu.DTO.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PizzaMenu.Data.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PizzaMenu.DTO.pdb
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\PizzaMenu.Data.dll.config
+C:\Users\Peter\OneDrive\Documents\personal\techAcademy\projects_C#\webApp\FinalPizzaMenuChallenge\PIzzaMenu.Domain\bin\Debug\EntityFramework.xml
