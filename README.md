@@ -1,8 +1,8 @@
-# TechAcademy-CSharp-Lessons
+# C Sharp Projects
 
-mostly from Developer University video tutorials w/ Bob Tabor :b
+*most projects in this repository are based on lessons from Developer University video series w/ Bob Tabor*
 
-Unless otherwise noted, all challenges completed without viewing solutions videos, often with additional enhancements.
-Occassional minor revisions made after viewing solutions videos.
-
-See additional "NOTES" text files in separate project folders for additional information about
+- Projects were completed on my own before viewing solutions videos, unless otherwise noted.
+- Occassional minor revisions were made after viewing solutions videos.
+- Additional functionality and enhancements were added to many projects in addition to original project specs
+- See additional "NOTES" text files in project folders for project details
