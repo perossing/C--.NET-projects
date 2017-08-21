@@ -16,7 +16,7 @@ namespace DartsChallenge
             dart.Hit = dart.Wedges();
             dart.BandHit = dart.Bands();
 
-            // This if/else section is needed only to set sting to display the name of the Band for each Throw
+            // This if/else section is needed only to set string to display the name of the Band for each Throw
             if (dart.BandHit == 1)
                 dart.Band = "inner";
             else if (dart.BandHit == 2)
