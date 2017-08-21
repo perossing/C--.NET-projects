@@ -1,4 +1,4 @@
-# How About Pancakes
+# How About Pancakes (.NET WebForm)
 
 *Another* pizza menu project, so I changed it to pancakes for something different
 
