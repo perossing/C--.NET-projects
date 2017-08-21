@@ -1,4 +1,4 @@
-# C Sharp Projects
+# C-Sharp / .NET Projects
 
 *most projects in this repository are based on lessons from Developer University video series w/ Bob Tabor*
 
