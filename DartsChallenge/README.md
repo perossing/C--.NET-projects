@@ -15,7 +15,7 @@
     * inner bullseye = 
 - 'Play Game' button displays results of each round and final scores with winner
 
-Added to original project specs:
+*Added to original project specs:*
 - display of specific wedge/band on each hit
 - display of points for individual throws as well as running total
 
